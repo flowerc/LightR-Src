@@ -2,5 +2,4 @@
 
 Python code for principal components analysis of phosphoproteomics data for the following manuscript:
 
-"LightR: A Light-Regulated Allosteric Switch Enables Temporal and Subcellular Control of Enzyme Activity"
-Shaaya M, et al. 2020. Under review.
+Shaaya M, Fauser J, Zhurikhina A, Conage-Pough JE, Huyot V, Brennan M, Flower CT, Matsche J, Khan S, Natarajan V, Rehman J, Kota P, White FM, Tsygankov D, Karginov AV. Light-regulated allosteric switch enables temporal and subcellular control of enzyme activity. Elife. 2020;9:e60647.
