@@ -1,5 +1,6 @@
 '''The following script performs principal component analysis (PCA) on supplementary phosphoproteomic data as reported in:
-Shaaya M, et al. LightR: A Light-Regulated Allosteric Switch Enables Temporal and Subcellular Control of Enzyme Activity.
+Shaaya M, et al. Light-regulated allosteric switch enables temporal and subcellular control of enzyme activity. Elife. 2020;9:e60647.
+
 Run this script in the same directory as the Excel (xlsx)-formatted phosphoproteomic data.
 '''
 
